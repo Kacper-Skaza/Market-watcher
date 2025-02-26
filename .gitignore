@@ -1,0 +1,6 @@
+# IDE files and directories
+src/__pycache__/
+build/
+
+# Compilation files
+*.exe
